@@ -1,0 +1,20 @@
+[
+  {
+    "id": "SUP-mhslpwci-563",
+    "name": "Papa",
+    "unit": "docena",
+    "qtyPerUnit": 12,
+    "active": true,
+    "createdAt": "2025-11-10T03:47:23.010Z",
+    "updatedAt": "2025-11-10T03:47:23.010Z"
+  },
+  {
+    "id": "SUP-mhslq3f7-324",
+    "name": "Fresa",
+    "unit": "unidad",
+    "qtyPerUnit": 4,
+    "active": true,
+    "createdAt": "2025-11-10T03:47:32.179Z",
+    "updatedAt": "2025-11-10T03:47:32.179Z"
+  }
+]
