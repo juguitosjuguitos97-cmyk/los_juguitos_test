@@ -20,5 +20,15 @@
     "reason": "SALE",
     "note": null,
     "createdAt": "2025-11-10T19:33:22.423Z"
+  },
+  {
+    "id": "IMV-mhtl1ilu-892",
+    "supplyId": "SUP-mhtit5j5-823",
+    "supplyName": "Fresa",
+    "branchId": "SUC-PRUEBA-1",
+    "deltaUnits": 20,
+    "reason": "RECEPTION",
+    "note": null,
+    "createdAt": "2025-11-10T20:16:11.634Z"
   }
 ]
