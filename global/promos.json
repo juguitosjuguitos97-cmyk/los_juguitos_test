@@ -1,0 +1,17 @@
+[
+  {
+    "id": "PR-mhsn5yzt-726",
+    "name": "2x1",
+    "lines": [
+      {
+        "itemId": "MN-mhsn34cm-921",
+        "name": "Licuado",
+        "unitPrice": 20,
+        "qty": 2
+      }
+    ],
+    "promoPrice": 30,
+    "createdAt": "2025-11-10T04:27:52.553Z",
+    "active": true
+  }
+]
