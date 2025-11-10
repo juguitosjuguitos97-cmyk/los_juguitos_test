@@ -1,0 +1,31 @@
+[
+  {
+    "id": "5f0db609-4104-48d2-a1b8-c808e3ee9de9",
+    "username": "Z",
+    "pass_hash": "YWFh",
+    "role": "Gerente",
+    "branch": "Prueba 1",
+    "state": "ACTIVO",
+    "perms": {
+      "MENU_PROMOS": true,
+      "REPORTS": true,
+      "SUPPLIES": true,
+      "WASTE": true,
+      "RECEPTION": true,
+      "ORDERS": true
+    },
+    "created_at": "2025-11-10T02:02:39.244Z"
+  },
+  {
+    "id": "acd223c1-7d7b-484f-be4b-11a8e5c1fbf5",
+    "username": "Hwhshahs",
+    "pass_hash": "YWFh",
+    "role": "Cajero",
+    "branch": "Todas",
+    "state": "ACTIVO",
+    "perms": {
+      "MENU_PROMOS": true
+    },
+    "created_at": "2025-11-10T02:06:41.063Z"
+  }
+]
