@@ -1,1 +1,31 @@
-[]
+[
+  {
+    "id": "OR-mhsn79gr-123",
+    "folio": "SUC-PRUEBA-1-20251109-001",
+    "branchId": "SUC-PRUEBA-1",
+    "branchName": "Prueba 1",
+    "day": "20251109",
+    "month": "202511",
+    "createdAt": "2025-11-10T04:28:52.775Z",
+    "total": 30,
+    "status": "EN_PROCESO",
+    "customerName": "Mary",
+    "phone": "8888881",
+    "email": null,
+    "paymentMethod": "CARD",
+    "paymentLabel": "Tarjeta",
+    "received": null,
+    "change": null,
+    "note": null,
+    "items": [
+      {
+        "productId": "promo:PR-mhsn5yzt-726",
+        "name": "2x1",
+        "unitPrice": 30,
+        "qty": 1,
+        "lineTotal": 30
+      }
+    ],
+    "consumption": {}
+  }
+]
