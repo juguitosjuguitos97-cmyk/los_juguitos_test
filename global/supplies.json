@@ -16,5 +16,23 @@
     "active": true,
     "createdAt": "2025-11-10T03:47:32.179Z",
     "updatedAt": "2025-11-10T03:47:32.179Z"
+  },
+  {
+    "id": "SUP-mhtit5j5-823",
+    "name": "Fresa",
+    "unit": "unidad",
+    "qtyPerUnit": 4,
+    "active": true,
+    "createdAt": "2025-11-10T19:13:42.209Z",
+    "updatedAt": "2025-11-10T19:13:42.209Z"
+  },
+  {
+    "id": "SUP-mhtitcq2-997",
+    "name": "Leche",
+    "unit": "litro",
+    "qtyPerUnit": 2,
+    "active": true,
+    "createdAt": "2025-11-10T19:13:51.530Z",
+    "updatedAt": "2025-11-10T19:13:51.530Z"
   }
 ]
