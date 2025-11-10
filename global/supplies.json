@@ -34,5 +34,23 @@
     "active": true,
     "createdAt": "2025-11-10T19:13:51.530Z",
     "updatedAt": "2025-11-10T19:13:51.530Z"
+  },
+  {
+    "id": "SUP-mhtnwpso-90",
+    "name": "Vasos",
+    "unit": "paquete",
+    "qtyPerUnit": 25,
+    "active": true,
+    "createdAt": "2025-11-10T21:36:26.521Z",
+    "updatedAt": "2025-11-10T21:36:26.522Z"
+  },
+  {
+    "id": "SUP-mhtny0ji-664",
+    "name": "Platos",
+    "unit": "paquete",
+    "qtyPerUnit": 20,
+    "active": true,
+    "createdAt": "2025-11-10T21:37:27.102Z",
+    "updatedAt": "2025-11-10T21:37:27.102Z"
   }
 ]
