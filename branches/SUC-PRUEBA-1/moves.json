@@ -1,1 +1,24 @@
-[]
+[
+  {
+    "id": "MV-mhtjig6v-734",
+    "supplyId": "SUP-mhtit5j5-823",
+    "supplyName": "Fresa",
+    "branchId": "SUC-PRUEBA-1",
+    "branchName": "Prueba 1",
+    "deltaUnits": -1,
+    "reason": "SALE",
+    "note": null,
+    "createdAt": "2025-11-10T19:33:22.423Z"
+  },
+  {
+    "id": "MV-mhtjig6v-234",
+    "supplyId": "SUP-mhtitcq2-997",
+    "supplyName": "Leche",
+    "branchId": "SUC-PRUEBA-1",
+    "branchName": "Prueba 1",
+    "deltaUnits": -1,
+    "reason": "SALE",
+    "note": null,
+    "createdAt": "2025-11-10T19:33:22.423Z"
+  }
+]
