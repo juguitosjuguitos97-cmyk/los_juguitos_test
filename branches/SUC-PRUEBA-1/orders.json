@@ -27,5 +27,37 @@
       }
     ],
     "consumption": {}
+  },
+  {
+    "id": "OR-mhtjig6w-131",
+    "folio": "SUC-PRUEBA-1-20251110-001",
+    "branchId": "SUC-PRUEBA-1",
+    "branchName": "Prueba 1",
+    "day": "20251110",
+    "month": "202511",
+    "createdAt": "2025-11-10T19:33:22.423Z",
+    "total": 20,
+    "status": "EN_PROCESO",
+    "customerName": null,
+    "phone": null,
+    "email": null,
+    "paymentMethod": "TRANSFER",
+    "paymentLabel": "Transferencia",
+    "received": null,
+    "change": null,
+    "note": null,
+    "items": [
+      {
+        "productId": "MN-mhtjacyo-406",
+        "name": "Licuado",
+        "unitPrice": 20,
+        "qty": 1,
+        "lineTotal": 20
+      }
+    ],
+    "consumption": {
+      "SUP-mhtit5j5-823": -1,
+      "SUP-mhtitcq2-997": -1
+    }
   }
 ]
