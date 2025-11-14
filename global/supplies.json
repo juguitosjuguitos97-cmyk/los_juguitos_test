@@ -52,5 +52,14 @@
     "active": true,
     "createdAt": "2025-11-10T21:37:27.102Z",
     "updatedAt": "2025-11-10T21:37:27.102Z"
+  },
+  {
+    "id": "SUP-mhtx8mvu-879",
+    "name": "Brocoli",
+    "unit": "paquete",
+    "qtyPerUnit": 4,
+    "active": true,
+    "createdAt": "2025-11-11T01:57:39.162Z",
+    "updatedAt": "2025-11-11T01:57:39.170Z"
   }
 ]
