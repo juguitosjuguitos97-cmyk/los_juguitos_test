@@ -1,0 +1,31 @@
+[
+  {
+    "id": "OR-mhtxjlaz-111",
+    "folio": "SUC-CENTRO-20251110-001",
+    "branchId": "SUC-CENTRO",
+    "branchName": "CENTRO",
+    "day": "20251110",
+    "month": "202511",
+    "createdAt": "2025-11-11T02:06:10.331Z",
+    "total": 100,
+    "status": "FINALIZADO",
+    "customerName": "Maria",
+    "phone": null,
+    "email": null,
+    "paymentMethod": "TRANSFER",
+    "paymentLabel": "Transferencia",
+    "received": null,
+    "change": null,
+    "note": "SIN AZUCAR",
+    "items": [
+      {
+        "productId": "promo:PR-mhtxhfck-694",
+        "name": "Licuado2x1",
+        "unitPrice": 50,
+        "qty": 2,
+        "lineTotal": 100
+      }
+    ],
+    "consumption": {}
+  }
+]
