@@ -1,0 +1,62 @@
+[
+  {
+    "id": "IMV-mhtx9pa6-181",
+    "supplyId": "SUP-mhtitcq2-997",
+    "supplyName": "Leche",
+    "branchId": "SUC-CENTRO",
+    "deltaUnits": 3,
+    "reason": "RECEPTION",
+    "note": null,
+    "createdAt": "2025-11-11T01:58:28.926Z"
+  },
+  {
+    "id": "IMV-mhtx9yxd-159",
+    "supplyId": "SUP-mhtit5j5-823",
+    "supplyName": "Fresa",
+    "branchId": "SUC-CENTRO",
+    "deltaUnits": 6,
+    "reason": "RECEPTION",
+    "note": null,
+    "createdAt": "2025-11-11T01:58:41.425Z"
+  },
+  {
+    "id": "IMV-mhtxc5ad-30",
+    "supplyId": "SUP-mhtx8mvu-879",
+    "supplyName": "Brocoli",
+    "branchId": "SUC-CENTRO",
+    "deltaUnits": 0,
+    "reason": "WASTE",
+    "note": null,
+    "createdAt": "2025-11-11T02:00:22.981Z"
+  },
+  {
+    "id": "IMV-mhtxcamy-452",
+    "supplyId": "SUP-mhslpwci-563",
+    "supplyName": "Papa",
+    "branchId": "SUC-CENTRO",
+    "deltaUnits": 0,
+    "reason": "WASTE",
+    "note": null,
+    "createdAt": "2025-11-11T02:00:29.914Z"
+  },
+  {
+    "id": "IMV-mhtxcgyj-887",
+    "supplyId": "SUP-mhtx8mvu-879",
+    "supplyName": "Brocoli",
+    "branchId": "SUC-CENTRO",
+    "deltaUnits": 0,
+    "reason": "WASTE",
+    "note": null,
+    "createdAt": "2025-11-11T02:00:38.107Z"
+  },
+  {
+    "id": "IMV-mhtxcobs-156",
+    "supplyId": "SUP-mhtit5j5-823",
+    "supplyName": "Fresa",
+    "branchId": "SUC-CENTRO",
+    "deltaUnits": -1,
+    "reason": "WASTE",
+    "note": null,
+    "createdAt": "2025-11-11T02:00:47.656Z"
+  }
+]
