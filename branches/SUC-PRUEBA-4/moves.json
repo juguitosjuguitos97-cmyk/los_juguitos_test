@@ -1,1 +1,86 @@
-[]
+[
+  {
+    "id": "IMV-mij6wsqy-352",
+    "supplyId": "SUP-mhslq3f7-324",
+    "supplyName": "Fresa",
+    "branchId": "SUC-PRUEBA-4",
+    "deltaUnits": 2,
+    "reason": "RECEPTION",
+    "note": null,
+    "createdAt": "2025-11-28T18:22:37.451Z"
+  },
+  {
+    "id": "IMV-mij6x9to-572",
+    "supplyId": "SUP-mij6wnw1-474",
+    "supplyName": "Leche",
+    "branchId": "SUC-PRUEBA-4",
+    "deltaUnits": 1,
+    "reason": "RECEPTION",
+    "note": null,
+    "createdAt": "2025-11-28T18:22:59.580Z"
+  },
+  {
+    "id": "MV-mij6z6ia-546",
+    "supplyId": "SUP-mhtitcq2-997",
+    "supplyName": "Leche",
+    "branchId": "SUC-PRUEBA-4",
+    "branchName": "Prueba 4",
+    "deltaUnits": -1,
+    "reason": "SALE",
+    "note": null,
+    "createdAt": "2025-11-28T18:24:28.594Z"
+  },
+  {
+    "id": "MV-mij6z6ia-457",
+    "supplyId": "SUP-mij6wfgg-579",
+    "supplyName": "fresa",
+    "branchId": "SUC-PRUEBA-4",
+    "branchName": "Prueba 4",
+    "deltaUnits": -1,
+    "reason": "SALE",
+    "note": null,
+    "createdAt": "2025-11-28T18:24:28.594Z"
+  },
+  {
+    "id": "IMV-mij6zwcv-551",
+    "supplyId": "SUP-mhslq3f7-324",
+    "supplyName": "Fresa",
+    "branchId": "SUC-PRUEBA-4",
+    "deltaUnits": 54,
+    "reason": "RECEPTION",
+    "note": null,
+    "createdAt": "2025-11-28T18:25:02.095Z"
+  },
+  {
+    "id": "IMV-mij700tf-412",
+    "supplyId": "SUP-mhtitcq2-997",
+    "supplyName": "Leche",
+    "branchId": "SUC-PRUEBA-4",
+    "deltaUnits": 3,
+    "reason": "RECEPTION",
+    "note": null,
+    "createdAt": "2025-11-28T18:25:07.875Z"
+  },
+  {
+    "id": "MV-mij70bsq-452",
+    "supplyId": "SUP-mhtitcq2-997",
+    "supplyName": "Leche",
+    "branchId": "SUC-PRUEBA-4",
+    "branchName": "Prueba 4",
+    "deltaUnits": -1,
+    "reason": "SALE",
+    "note": null,
+    "createdAt": "2025-11-28T18:25:22.105Z"
+  },
+  {
+    "id": "MV-mij70bsq-494",
+    "supplyId": "SUP-mij6wfgg-579",
+    "supplyName": "fresa",
+    "branchId": "SUC-PRUEBA-4",
+    "branchName": "Prueba 4",
+    "deltaUnits": -1,
+    "reason": "SALE",
+    "note": null,
+    "createdAt": "2025-11-28T18:25:22.105Z"
+  }
+]
