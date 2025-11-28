@@ -1,1 +1,66 @@
-[]
+[
+  {
+    "id": "OR-mij6z6ia-517",
+    "folio": "SUC-PRUEBA-4-20251128-001",
+    "branchId": "SUC-PRUEBA-4",
+    "branchName": "Prueba 4",
+    "day": "20251128",
+    "month": "202511",
+    "createdAt": "2025-11-28T18:24:28.594Z",
+    "total": 40,
+    "status": "FINALIZADO",
+    "customerName": "Maria",
+    "phone": null,
+    "email": null,
+    "paymentMethod": "CARD",
+    "paymentLabel": "Tarjeta",
+    "received": null,
+    "change": null,
+    "note": null,
+    "items": [
+      {
+        "productId": "MN-mij6xig3-105",
+        "name": "Lucuado fresa",
+        "unitPrice": 40,
+        "qty": 1,
+        "lineTotal": 40
+      }
+    ],
+    "consumption": {
+      "SUP-mhtitcq2-997": -1,
+      "SUP-mij6wfgg-579": -1
+    }
+  },
+  {
+    "id": "OR-mij70bsq-475",
+    "folio": "SUC-PRUEBA-4-20251128-002",
+    "branchId": "SUC-PRUEBA-4",
+    "branchName": "Prueba 4",
+    "day": "20251128",
+    "month": "202511",
+    "createdAt": "2025-11-28T18:25:22.105Z",
+    "total": 40,
+    "status": "FINALIZADO",
+    "customerName": null,
+    "phone": null,
+    "email": null,
+    "paymentMethod": "CARD",
+    "paymentLabel": "Tarjeta",
+    "received": null,
+    "change": null,
+    "note": null,
+    "items": [
+      {
+        "productId": "MN-mij6xig3-105",
+        "name": "Lucuado fresa",
+        "unitPrice": 40,
+        "qty": 1,
+        "lineTotal": 40
+      }
+    ],
+    "consumption": {
+      "SUP-mhtitcq2-997": -1,
+      "SUP-mij6wfgg-579": -1
+    }
+  }
+]
