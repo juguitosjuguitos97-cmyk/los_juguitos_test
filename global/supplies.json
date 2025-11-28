@@ -64,7 +64,7 @@
   },
   {
     "id": "SUP-miik8sy4-629",
-    "name": "Limón",
+    "name": "LimÃ³n",
     "unit": "kg",
     "qtyPerUnit": 20,
     "active": true,
@@ -79,5 +79,23 @@
     "active": true,
     "createdAt": "2025-11-28T07:48:06.414Z",
     "updatedAt": "2025-11-28T07:48:06.414Z"
+  },
+  {
+    "id": "SUP-mij6wfgg-579",
+    "name": "fresa",
+    "unit": "kg",
+    "qtyPerUnit": 54,
+    "active": true,
+    "createdAt": "2025-11-28T18:22:20.224Z",
+    "updatedAt": "2025-11-28T18:22:20.229Z"
+  },
+  {
+    "id": "SUP-mij6wnw1-474",
+    "name": "Leche",
+    "unit": "litro",
+    "qtyPerUnit": 4,
+    "active": true,
+    "createdAt": "2025-11-28T18:22:31.153Z",
+    "updatedAt": "2025-11-28T18:22:31.153Z"
   }
 ]
