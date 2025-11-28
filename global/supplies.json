@@ -61,5 +61,23 @@
     "active": true,
     "createdAt": "2025-11-11T01:57:39.162Z",
     "updatedAt": "2025-11-11T01:57:39.170Z"
+  },
+  {
+    "id": "SUP-miik8sy4-629",
+    "name": "Limón",
+    "unit": "kg",
+    "qtyPerUnit": 20,
+    "active": true,
+    "createdAt": "2025-11-28T07:48:06.412Z",
+    "updatedAt": "2025-11-28T07:48:06.413Z"
+  },
+  {
+    "id": "SUP-miik8sy6-884",
+    "name": "Vaso 500 ml",
+    "unit": "pieza",
+    "qtyPerUnit": 50,
+    "active": true,
+    "createdAt": "2025-11-28T07:48:06.414Z",
+    "updatedAt": "2025-11-28T07:48:06.414Z"
   }
 ]
